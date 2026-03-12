@@ -1,0 +1,4 @@
+1. create venv(optional)
+2. install req : pip install -r requriments.txt
+3. run software : python3 main.py
+connect steam dih to pc and it should works 
