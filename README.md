@@ -22,7 +22,7 @@ Hardware:
 
 Software:
 - whatever IDE(nanno kate vscode notepad whatever)
-- curcit python
+- circuit python
 - adafruit_hid lib
 
 ---
